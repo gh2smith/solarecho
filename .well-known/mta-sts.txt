@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mx1.solarecho.com
+mx: mx2.solarecho.com
+max_age: 604800
